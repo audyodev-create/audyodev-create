@@ -12,10 +12,8 @@
 </p>
 
 <div align="center">
-  <img src="./coboy.gif" alt="Cowboy Bebop" width="600"/>
+  <img src="./drstone.gif" alt="Dr Stone" width="1900"/>
 </div>
-
----
 
 ### 📊 My Activity Graph
 
@@ -30,7 +28,7 @@
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="./drstone.gif" alt="Dr Stone" width="400"/>
+  <img src="./coboy.gif" alt="Cowboy Bebop" width="600"/>
 </div>
 
 </td>

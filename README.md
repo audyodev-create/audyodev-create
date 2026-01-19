@@ -25,14 +25,14 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 <div align="center">
-  <img src="./coboy.gif" alt="Cowboy Bebop" width="600"/>
+  <img src="./coboy.gif" alt="Cowboy Bebop" width="500"/>
 </div>
 
 </td>
-<td width="50%" valign="top">
+<td width="65%" valign="top">
 
 #### 🎨 Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./traxxou.gif" alt="Traxxouu" width="1020"/>
+  <img src="./traxxouu.gif" alt="Traxxouu" width="1020"/>
 </div>
 
 <p align="center">

@@ -68,4 +68,62 @@
 </tr>
 </table>
 
+### 📝 About Me & Stats
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 👨‍💻 Who Am I?
+```javascript
+const traxxouu = {
+    name: "Maël Barbe",
+    role: "Full Stack Developer",
+    company: "YourWeb",
+    education: "EFREI Paris 🎓",
+    location: "Paris, France 🇫🇷",
+    
+    currentlyLearning: [
+        "DevSecOps",
+        "Docker & CI/CD",
+        "AWS & Security"
+        "Framework"
+    ],
+    
+    interests: [
+        "Web Development",
+        "Cybersecurity", 
+        "Gaming (Faceit -> CS2)",
+        "Entrepreneurship"
+    ],
+    
+    funFact: "AMOR FATI"
+};
+```
+
+#### 📊 GitHub Stats
+
+![Traxxouu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Traxxouu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35)
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="./lain.gif" alt="Lain" width="500"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+### ⏱️ Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
+
+### ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
